@@ -22,21 +22,22 @@ provide heat when it is cold.  The other relay activates a fan that will help co
 * 1 - breadboard
 * 1 - TMP36 temperature sensor
 * 2 - 3.3v relay modules
+* 1 - 10nF capacitor
 * 1 - power outlet
 * 1 - project box
 * Misc hookup wire
 
 ## Circuit
-todo...
+![Circuit](https://github.com/okie1/greenhouse/blob/master/circuit.jpg)
 
 ## Code
 The code is posted on this GitHub feed: [https://github.com/okie1/greenhouse](https://github.com/okie1/greenhouse)
 
 ## Assembly
-Most of the details are detailed in the circuit diagram.  One item to note is a modification I made to the electric outlet.  On the hot side of the outlet I broke off the tab such that I could use the top and bottom plugins on separate circuits.
+Most of the details are detailed in the circuit diagram.  The build started from a diagram and code example from the particle websight.  One item to note is a modification I made to the electric outlet.  On the hot side of the outlet I broke off the tab such that I could use the top and bottom plugins on separate circuits.
 
 ## Results
-todo...
+As you can see from the photo, I did not take any pains with the wiring.  I did this with the intention of it being a temporary build.  However, it works so well, I may just keep it around for a while.  It will be interesting to see how durable a build that uses a breadboad will be....even though it just basically lays on a stool and runs.  
 
 ## Hindsight
-todo...
+It's a brand new build..... I'll check in later.
