@@ -39,5 +39,9 @@ Most of the details are detailed in the circuit diagram.  The build started from
 ## Results
 As you can see from the photo, I did not take any pains with the wiring.  I did this with the intention of it being a temporary build.  However, it works so well, I may just keep it around for a while.  It will be interesting to see how durable a build that uses a breadboad will be....even though it just basically lays on a stool and runs.  
 
+It is easy to check in with the Particle app from my phone to monitor the current conditions in my greenhouse.  Here is what that looks like:
+![ParticleApp](https://github.com/okie1/greenhouse/blob/master/ParticleApp.jpg)
+From my phone I can change the temperature thresholds for each relay.  The values are saved in EPROM so they are available even after a reboot of the device.  I can also see how long the device has been running and if it still is.  I added a remote reboot command to it as well by sending the text "reboot" to the App_MiscCmd function.
+
 ## Hindsight
 It's a brand new build..... I'll check in later.
